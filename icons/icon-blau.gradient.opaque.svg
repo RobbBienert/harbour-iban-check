@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg version="1.1" width="128" height="128" viewBox="0 0 128 128"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>IBAN Checker Icon</title>
+<style type="text/css">
+text {
+	font-size: 20px;
+	font-family: "DejaVu Sans", sans-serif;
+	stroke: white; fill: white;
+}
+</style>
+<defs>
+	<linearGradient id="linGrad" gradientUnits="objectBoundingBox" x1="0%" y1="0%" x2="100%" y2="100%">
+		<stop offset="0%" stop-color="#3399cc"/>
+		<stop offset="50%" stop-color="#9933cc"/>
+		<stop offset="100%" stop-color="#3399cc"/>
+	</linearGradient>
+	<radialGradient id="radGrad" gradientUnits="objectBoundingBox">
+		<stop offset="0%" stop-color="#9933cc"/>
+		<stop offset="100%" stop-color="#3399cc"/>
+	</radialGradient>
+</defs>
+<g>
+	<path id="icon" d="M128,0 v64 a64,64 0 0 1 -64,64 h-64 v-64 a64,64 0 0 1 64,-64z" fill="url(#linGrad)"/>
+	<path id="frame" d="M124,4 v60 a60,60 0 0 1 -60,60 h-60 v-60 a60,60 0 0 1 60,-60z" style="fill:none;stroke:white"/>
+	<text x="44" y="36">XX08</text>
+	<text x="40" y="60">0123</text>
+	<text x="36" y="84">4567</text>
+	<text x="32" y="108">8901</text>
+</g>
+<path id="shaddow" d="M128,0 v64 a64,64 0 0 1 -64,64 h-64 v-64 a64,64 0 0 1 64,-64z" fill="#ffffff" fill-opacity=".333"/>
+</svg>

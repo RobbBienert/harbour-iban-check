@@ -1,0 +1,16 @@
+#!/bin/bash
+
+svg2png() {
+	b=`basename "$1" .svg`
+	for s in 86 108 128 256; do
+		inkscape -e "${s}x${s}/$b.png" -w "$s" -h "$s" "$1"
+	done
+}
+
+if [ $# = 0 ]; then
+	for i in *.svg; do
+		svg2png "$i"
+	done
+else
+	svg2png $*
+fi
