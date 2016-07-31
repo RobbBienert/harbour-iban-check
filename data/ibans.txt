@@ -1,0 +1,89 @@
+# https://de.wikipedia.org/wiki/IBAN#IBAN-Struktur_in_verschiedenen_L.C3.A4ndern
+Ägypten 	27 	EGpp kkkk kkkk kkkk kkkk kkkk kkk
+Albanien 	28 	ALpp bbbs sssK kkkk kkkk kkkk kkkk
+Algerien 	24 	DZpp kkkk kkkk kkkk kkkk kkkk
+Andorra 	24 	ADpp bbbb ssss kkkk kkkk kkkk
+Angola 	25 	AOpp bbbb ssss kkkk kkkk kkkK K
+Aserbaidschan 	28 	AZpp bbbb kkkk kkkk kkkk kkkk kkkk
+Bahrain 	22 	BHpp bbbb kkkk kkkk kkkk kk
+Belgien 	16 	BEpp bbbk kkkk kkKK
+Benin 	28 	BJpp bbbb bsss sskk kkkk kkkk kkKK
+Bosnien und Herzegowina 	20 	BApp bbbs sskk kkkk kkKK
+Brasilien 	29 	BRpp bbbb bbbb ssss skkk kkkk kkkk k
+Britische Jungferninseln 	24 	VGpp bbbb kkkk kkkk kkkk kkkk
+Bulgarien 	22 	BGpp bbbb ssss ddkk kkkk kk
+Burkina Faso 	27 	BFpp bbbb bsss sskk kkkk kkkk kKK
+Burundi 	16 	BIpp kkkk kkkk kkkk
+Costa Rica 	21 	CRpp bbbk kkkk kkkk kkkk k
+Côte d'Ivoire (Elfenbeinküste) 	28 	CIpp bbbb bsss sskk kkkk kkkk kkKK
+Dänemark 	18 	DKpp bbbb kkkk kkkk kK
+Deutschland 	22 	DEpp bbbb bbbb kkkk kkkk kk
+Dominikanische Republik 	28 	DOpp bbbb kkkk kkkk kkkk kkkk kkkk
+Estland 	20 	EEpp bbkk kkkk kkkk kkkK
+Färöer 	18 	FOpp bbbb kkkk kkkk kK
+Finnland 	18 	FIpp bbbb bbkk kkkk kK
+Frankreich	27 	FRpp bbbb bsss sskk kkkk kkkk kKK
+Gabun 	27 	GApp bbbb bsss sskk kkkk kkkk kKK
+Georgien 	22 	GEpp bbkk kkkk kkkk kkkk kk
+Gibraltar 	23 	GIpp bbbb kkkk kkkk kkkk kkk
+Griechenland 	27 	GRpp bbbs sssk kkkk kkkk kkkk kkk
+Grönland 	18 	GLpp bbbb kkkk kkkk kK
+Guatemala 	28 	GTpp bbbb kkkk kkkk kkkk kkkk kkkk
+Iran 	26 	IRpp kkkk kkkk kkkk kkkk kkkk kk
+Irland 	22 	IEpp bbbb ssss sskk kkkk kk
+Island 	26 	ISpp bbbb sskk kkkk XXXX XXXX XX
+Israel 	23 	ILpp bbbs sskk kkkk kkkk kkk
+Italien 	27 	ITpp Kbbb bbss sssk kkkk kkkk kkk
+Jordanien 	30 	JOpp bbbb ssss kkkk kkkk kkkk kkkk kk
+Kamerun 	27 	CMpp bbbb bsss sskk kkkk kkkk kKK
+Kap Verde 	25 	CVpp bbbb ssss kkkk kkkk kkkK K
+Kasachstan 	20 	KZpp bbbk kkkk kkkk kkkk
+Katar 	29 	QApp bbbb kkkk kkkk kkkk kkkk kkkk k
+Kongo (Brazzaville) 	27 	CGpp bbbb bsss sskk kkkk kkkk kKK
+Kosovo 	20 	XKpp bbbb kkkk kkkk kkkk
+Kroatien 	21 	HRpp bbbb bbbk kkkk kkkk k
+Kuwait 	30 	KWpp bbbb kkkk kkkk kkkk kkkk kkkk kk
+Lettland 	21 	LVpp bbbb kkkk kkkk kkkk k
+Libanon 	28 	LBpp bbbb kkkk kkkk kkkk kkkk kkkk
+Liechtenstein 	21 	LIpp bbbb bkkk kkkk kkkk k
+Litauen 	20 	LTpp bbbb bkkk kkkk kkkk
+Luxemburg 	20 	LUpp bbbk kkkk kkkk kkkk
+Madagaskar 	27 	MGpp bbbb bsss sskk kkkk kkkk kKK
+Mali 	28 	MLpp bbbb bsss sskk kkkk kkkk kkKK
+Malta 	31 	MTpp bbbb ssss skkk kkkk kkkk kkkk kkk
+Mauretanien 	27 	MRpp bbbb bsss sskk kkkk kkkk kKK
+Mauritius 	30 	MUpp bbbb bbss kkkk kkkk kkkk kkkK KK
+Mazedonien 	19 	MKpp bbbk kkkk kkkk kKK
+Moldawien 	24 	MDpp bbkk kkkk kkkk kkkk kkkk
+Monaco 	27 	MCpp bbbb bsss sskk kkkk kkkk kKK
+Montenegro 	22 	MEpp bbbk kkkk kkkk kkkk KK
+Mosambik 	25 	MZpp bbbb ssss kkkk kkkk kkkK K
+Niederlande 	18 	NLpp bbbb kkkk kkkk kk
+Norwegen 	15 	NOpp bbbb kkkk kkK
+Österreich 	20 	ATpp bbbb bkkk kkkk kkkk
+Osttimor 	23 	TLpp bbbk kkkk kkkk kkkk kKK
+Pakistan 	24 	PKpp bbbb rrkk kkkk kkkk kkkk
+Palästinensische Autonomiegebiete 	29 	PSpp bbbb rrrr rrrr rkkk kkkk kkkk k
+Polen 	28 	PLpp bbbs sssK kkkk kkkk kkkk kkkk
+Portugal 	25 	PTpp bbbb ssss kkkk kkkk kkkK K
+Rumänien 	24 	ROpp bbbb kkkk kkkk kkkk kkkk
+San Marino 	27 	SMpp Kbbb bbss sssk kkkk kkkk kkk
+São Tomé und Príncipe 	25 	STpp bbbb ssss kkkk kkkk kkkK K
+Saudi-Arabien 	24 	SApp bbkk kkkk kkkk kkkk kkkk
+Schweden 	24 	SEpp bbbk kkkk kkkk kkkk kkkK
+Schweiz 	21 	CHpp bbbb bkkk kkkk kkkk k
+Senegal 	28 	SNpp bbbb bsss sskk kkkk kkkk kkKK
+Serbien 	22 	RSpp bbbk kkkk kkkk kkkk KK
+Seychellen 	31 	SCpp bbbb bbbb kkkk kkkk kkkk kkkk XXX
+Slowakei 	24 	SKpp bbbb ssss sskk kkkk kkkk
+Slowenien 	19 	SIpp bbss skkk kkkk kKK
+Spanien 	24 	ESpp bbbb ssss KKkk kkkk kkkk
+Tschechien 	24 	CZpp bbbb kkkk kkkk kkkk kkkk
+Tunesien 	24 	TNpp bbss skkk kkkk kkkk kkKK
+Türkei 	26 	TRpp bbbb brkk kkkk kkkk kkkk kk
+Ukraine 	29 	UApp bbbb bbkk kkkk kkkk kkkk kkkk k
+Ungarn 	28 	HUpp bbbs sssK kkkk kkkk kkkk kkkK
+Vereinigte Arabische Emirate 	23 	AEpp bbbk kkkk kkkk kkkk kkk
+Vereinigtes Königreich	22 	GBpp bbbb ssss sskk kkkk kk
+Zypern 	28 	CYpp bbbs ssss kkkk kkkk kkkk kkkk
+Zentralafrikanische Republik 	27 	CFpp bbbb bsss sskk kkkk kkkk kKK
