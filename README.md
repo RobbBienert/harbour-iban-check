@@ -10,7 +10,7 @@ You can either fill in a complete IBAN (copy & paste) or create it step-by-step 
 ### Formal Check
 The IBAN check is only done by checking the number against the given checksum using the algorithm described in ISO 13616-1:2007. The actual validity can only be checked by banks and finance institutes.
 
-For details see e. g.[Wikipedia: IBAN]("https://en.wikipedia.org/wiki/International_Bank_Account_Number").
+For details see e. g. [Wikipedia: IBAN](https://en.wikipedia.org/wiki/International_Bank_Account_Number).
 
 ### Testing Functions
 As mentioned above, you can calculate the checksum by leaving the input empty or fill it with '00' or 'xx'.\nFor further testing without using real bank account numbers, there is also a example country 'XX' at the end of the long list of countries.
