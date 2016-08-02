@@ -25,7 +25,7 @@
 int main(int argc, char *argv[])
 {
     // QML types implemented in C++
-    qmlRegisterType<AppSettings>("Settings", 1, 0, "Settings");
+    qmlRegisterType<AppSettings>("harbour.ibancheck.Settings", 1, 0, "Settings");
 
     // SailfishApp::main() will display "qml/template.qml", if you need more
     // control over initialization, you can use:

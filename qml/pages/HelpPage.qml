@@ -54,7 +54,7 @@ Page {
             }
             TextWithLink {
                 id: warning
-                text: qsTr("The IBAN check is only done by checking the number against the given checksum using the algorithm described in ISO 13616-1:2007. The actual validity can only be checked by banks and finance institutes.<br>For details see e. g.") + " <a href=\"" + qsTr("https://en.wikipedia.org/wiki/International_Bank_Account_Number") + "\"><font color=\"" + Theme.highlightColor + "\">" + qsTr("Wikipedia: IBAN") + "</font></a>."
+                text: qsTr("The IBAN check is only done by checking the number against the given checksum using the algorithm described in ISO 13616-1:2007. The actual validity can only be checked by banks and finance institutes.<br>For details see e. g.") + " <a href=\"" + qsTr("https://en.wikipedia.org/wiki/International_Bank_Account_Number") + "\">" + qsTr("Wikipedia: IBAN") + "</a>."
             }
 
             SailTextHeader {
