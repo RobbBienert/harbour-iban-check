@@ -14,7 +14,7 @@ Name:       harbour-iban-check
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    IBAN Checker
 Version:    1.0
-Release:    2
+Release:    3
 Group:      Qt/Qt
 License:    LICENSE
 URL:        http://example.org/
