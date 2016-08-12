@@ -21,7 +21,6 @@ SOURCES += src/iban-check.cpp \
 
 OTHER_FILES += qml/harbour-iban-check.qml \
     qml/cover/CoverPage.qml \
-    rpm/harbour-iban-check.changes.in \
     rpm/harbour-iban-check.spec \
     rpm/harbour-iban-check.yaml \
     translations/*.ts \
@@ -37,7 +36,9 @@ CONFIG += sailfishapp_i18n
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-TRANSLATIONS += translations/harbour-iban-check-de.ts
+TRANSLATIONS += translations/harbour-iban-check-de.ts \
+    translations/harbour-iban-check-fr.ts \
+    translations/harbour-iban-check-sv.ts
 
 DISTFILES += \
     qml/pages/AboutPage.qml \
@@ -49,10 +50,10 @@ DISTFILES += \
     qml/types/SailTextHeader.qml \
     qml/types/TextWithLink.qml \
     data/ibans.txt \
-    data/tojs.py
+    data/tojs.py \
+    rpm/harbour-iban-check.changes
 
 HEADERS += \
     src/settings.h \
     src/qstringio.h \
     src/appsettings.h
-

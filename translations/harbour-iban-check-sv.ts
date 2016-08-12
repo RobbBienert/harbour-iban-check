@@ -19,6 +19,14 @@
         <source>See the GNU General Public License for more details.</source>
         <translation>Se GNU General Public License för mer info.</translation>
     </message>
+    <message>
+        <source>Credits</source>
+        <translation>Tack</translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation>Licens</translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>
@@ -43,7 +51,7 @@
     </message>
     <message>
         <source>https://en.wikipedia.org/wiki/International_Bank_Account_Number</source>
-        <translation>https://en.wikipedia.org/wiki/International_Bank_Account_Number</translation>
+        <translation>https://sv.wikipedia.org/wiki/International_Bank_Account_Number</translation>
     </message>
     <message>
         <source>Wikipedia: IBAN</source>
@@ -72,7 +80,7 @@ För vidare testning utan att använda riktiga bankkontonummer, finns det också
     <name>MainPage</name>
     <message>
         <source>About …</source>
-        <translation>Om ...</translation>
+        <translation>Om …</translation>
     </message>
     <message>
         <source>IBAN Checker</source>
@@ -108,62 +116,11 @@ För vidare testning utan att använda riktiga bankkontonummer, finns det också
     </message>
     <message>
         <source> … or fill in the following fields:</source>
-        <translation> ... eller fyll i följande fält:</translation>
+        <translation> … eller fyll i följande fält:</translation>
     </message>
     <message>
         <source>incorrect</source>
         <translation>Felaktigt</translation>
-    </message>
-</context>
-<context>
-    <name>MainPage2</name>
-    <message>
-        <source>About …</source>
-        <translation>Om ...</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Hjälp</translation>
-    </message>
-    <message>
-        <source>IBAN Checker</source>
-        <translation>IBAN Checker</translation>
-    </message>
-    <message>
-        <source>(Copy &amp; Paste) IBAN</source>
-        <translation>(Kopiera &amp; Klistra in) IBAN</translation>
-    </message>
-    <message>
-        <source> … or fill in the following fields:</source>
-        <translation> ... eller fyll i följande fält:</translation>
-    </message>
-    <message>
-        <source>Bank Account Number</source>
-        <translation>Bankkontonummer</translation>
-    </message>
-    <message>
-        <source>Check</source>
-        <translation>Kontrollera</translation>
-    </message>
-    <message>
-        <source>IBAN</source>
-        <translation>IBAN</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>invalid</source>
-        <translation>ogiltigt</translation>
-    </message>
-    <message>
-        <source>Country</source>
-        <translation>Land</translation>
-    </message>
-    <message>
-        <source>Checksum</source>
-        <translation>Kontrollsumma</translation>
     </message>
 </context>
 </TS>

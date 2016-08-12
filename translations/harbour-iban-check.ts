@@ -19,6 +19,14 @@
         <source>See the GNU General Public License for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Credits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>

@@ -19,6 +19,14 @@
         <source>See the GNU General Public License for more details.</source>
         <translation>Lies die GNU General Public License für weitere Details.</translation>
     </message>
+    <message>
+        <source>Credits</source>
+        <translation>Danke</translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation>Lizenz</translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>

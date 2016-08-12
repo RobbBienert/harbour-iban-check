@@ -14,4 +14,5 @@ Label {
     width: parent.width - 2*Theme.paddingLarge
     wrapMode: Text.WordWrap
     color: Theme.secondaryHighlightColor
+    font.bold: true
 }

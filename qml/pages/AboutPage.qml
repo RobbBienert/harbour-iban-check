@@ -45,11 +45,23 @@ Page {
             }
             SailText {
                 id: copyright
-                text: "Version 1.0\nCopyright © 2016 Robert Bienert"
+                text: "Version 1.1\nCopyright © 2016 Robert Bienert"
             }
             TextWithLink {
                 id: link
                 text: '<a href="https://github.com/RobbBienert/harbour-iban-check">Git Repository &amp; Wiki</a>'
+            }
+
+            SailTextHeader {
+                text: qsTr("Credits")
+            }
+            TextWithLink {
+                id: credits
+                text: "· Français: <a href=\"https://github.com/Quent-in\">Quent-in</a><br>· Svenska: <a href=\"https://github.com/eson57\">eson57</a>"
+            }
+
+            SailTextHeader {
+                text: qsTr("License")
             }
 
             TextWithLink {
