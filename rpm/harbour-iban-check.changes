@@ -5,5 +5,8 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Fri Aug 12 2016 Robert Bienert <robertbienert@gmx.net> 1.1.0-1
+- The IBAN now may contain letters in its body as noted in issue #3
+
 * Sat Aug 06 2016 Robert Bienert <robertbienert@gmx.net> 1.1.0-1
 - added French and Swedish Localization thanks to Quent-in and eson57

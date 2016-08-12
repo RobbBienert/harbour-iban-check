@@ -60,7 +60,7 @@ Page {
                     manualCountry = false;
                 }
                 validator: RegExpValidator {
-                    regExp: /^[a-zA-Z]{2}[\s0-9]*$/
+                    regExp: /^[a-zA-Z]{2}[\s0-9A-Za-z]*$/
                 }
 
                 EnterKey.enabled: text.length > 0
@@ -133,7 +133,7 @@ Page {
                 placeholderText: "0000 0000 0000 0000 00"
                 label: qsTr("Bank Account Number")
                 horizontalAlignment: Text.AlignLeft
-                inputMethodHints: Qt.ImhDigitsOnly
+                inputMethodHints: Qt.ImhDigitsOnly | Qt.ImhUppercaseOnly
                 maximumLength: 18
                 EnterKey.enabled: text.length > 0
                 EnterKey.iconSource: "image://theme/icon-m-enter-accept"
@@ -177,7 +177,7 @@ Page {
             ibanNumberIn.text   = iban.substr(4);
         }
         if (0 == ibanCheckIn.text.length || '00' == ibanCheckIn.text
-                || 'xx' == ibanCheckIn.text)
+                || 'XX' == ibanCheckIn.text)
         {
             ibanCheckIn.text = IBANCheck.calcChecksum(ibanCountryIn.value,
                                                       ibanNumberIn.text);

@@ -32,7 +32,7 @@ function modulo(num, op) {
 function prepareIBan(country, check, number) {
     var cc = countryCode(country);
 
-    var number = number.replace(' ', '') + cc + check.toString();
+    var number = letterCode(number.replace(' ', '')) + cc + check.toString();
 
     return modulo(number, 97);
 }
@@ -46,16 +46,36 @@ function calcChecksum(country, number) {
     return r < 10 ? '0'+r : r;
 }
 
-var Shift = 'A'.charCodeAt(0) - 10;
+var CA = 'A'.charCodeAt(0)
+var Shift = CA - 10;
+var CZ = 'Z'.charCodeAt(0)
+var C0 = '0'.charCodeAt(0)
+var C9 = '9'.charCodeAt(0)
+
+// converting A-Z letter to digit
+function letterCode(numstr) {
+    var num = ""
+    var strl = numstr.length
+    var cc;
+
+    for (var i = 0; i < strl; ++i) {
+        cc = numstr.charCodeAt(i)
+        if (cc >= C0 && cc <= C9)
+            num += numstr[i]
+        else if (cc >= CA && cc <= CZ)
+            num += (cc - Shift).toString()
+    }
+
+    return num
+}
 
 /* calculates the countrys numerical code from a given letter code
  */
 function countryCode(cc) {
-    if (cc.length != 2)
+    if (cc.length !== 2)
         return 0;
 
-    return (cc.charCodeAt(0) - Shift).toString()
-        + (cc.charCodeAt(1) - Shift.toString());
+    return letterCode(cc)
 }
 
 function Country(ibanLength) {
