@@ -121,5 +121,17 @@ For further testing without using real bank account numbers, there is also a exa
         <source>incorrect</source>
         <translation>incorrect</translation>
     </message>
+    <message>
+        <source>Zero pad:</source>
+        <translation>ajouter 0:</translation>
+    </message>
+    <message>
+        <source>front</source>
+        <translation>devant</translation>
+    </message>
+    <message>
+        <source>back</source>
+        <translation>derrière</translation>
+    </message>
 </context>
 </TS>

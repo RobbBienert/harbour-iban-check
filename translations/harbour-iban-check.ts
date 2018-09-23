@@ -121,5 +121,17 @@ For further testing without using real bank account numbers, there is also a exa
         <source>incorrect</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Zero pad:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>back</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

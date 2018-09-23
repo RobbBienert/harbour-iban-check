@@ -5,6 +5,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sun Sep 23 2018 Robert Bienert <robertbienert@gmx.net> 1.2.0-1
+- added zero padding option to IBAN as requested https://github.com/RobbBienert/harbour-iban-check/issues/4
+- small layout fix on MainPage
+
 * Fri Aug 12 2016 Robert Bienert <robertbienert@gmx.net> 1.1.0-1
 - The IBAN now may contain letters in its body as noted in issue #3
 

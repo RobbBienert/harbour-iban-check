@@ -122,5 +122,17 @@ Für weitere Tests ohne echte Kontonummern existiert weiterhin ein Beispielland 
         <source>incorrect</source>
         <translation>inkorrekt</translation>
     </message>
+    <message>
+        <source>Zero pad:</source>
+        <translation>0 anfügen:</translation>
+    </message>
+    <message>
+        <source>front</source>
+        <translation>vorne</translation>
+    </message>
+    <message>
+        <source>back</source>
+        <translation>hinten</translation>
+    </message>
 </context>
 </TS>

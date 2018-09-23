@@ -122,5 +122,17 @@ För vidare testning utan att använda riktiga bankkontonummer, finns det också
         <source>incorrect</source>
         <translation>Felaktigt</translation>
     </message>
+    <message>
+        <source>Zero pad:</source>
+        <translation>lägg till 0:</translation>
+    </message>
+    <message>
+        <source>front</source>
+        <translation>framåt</translation>
+    </message>
+    <message>
+        <source>back</source>
+        <translation>bakom</translation>
+    </message>
 </context>
 </TS>
