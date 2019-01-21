@@ -21,3 +21,10 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
 See the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0) for more details.
+
+## Publication
+
+This app is published in binary format to
+
+ * the Jolla harbour (access from the *Store* app on your mobile device)
+ * [OpenRepos](https://openrepos.net/content/robbbienert/iban-checker)
